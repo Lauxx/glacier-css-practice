@@ -1,5 +1,3 @@
-
-
 .leftImage{
 	width: 100%;
 	height: 100%;
@@ -26,3 +24,9 @@
 	opacity: .9;
 }
 
+.mainTitle{
+	font-family: 'Phosphate';
+	color: white;
+	margin-top: 8%;
+	margin-left: 4%;
+}
